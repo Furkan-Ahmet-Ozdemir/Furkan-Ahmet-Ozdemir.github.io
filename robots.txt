@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Furkan-Ahmet-Ozdemir.github.io/sitemap.xml
