@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Furkan-Ahmet-Ozdemir
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Furkan-Ahmet-Ozdemir/flight-search-api
+  - Furkan-Ahmet-Ozdemir/Spring-vet
+  - Furkan-Ahmet-Ozdemir/Hotel-Backend
